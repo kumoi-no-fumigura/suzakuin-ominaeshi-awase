@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/suzakuin-ominaeshi-awase",
  "yomi": "すざくいんおみなえしあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（女郎花合）",
+  "era": "昌泰元年（898）秋",
+  "author": "宇多上皇",
+  "desc": "序に、亭子院の帝（宇多天皇）が譲位した翌年に催した女郎花合と記す。女郎花を題とする歌を左右に番え、花は右、歌は左が勝ったとある。"
+ },
  "editions": [
   {
    "pid": "1879502",
